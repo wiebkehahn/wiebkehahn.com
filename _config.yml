@@ -28,7 +28,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.wiebkehahn.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: tufte-pandoc-jekyll
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-pandoc
