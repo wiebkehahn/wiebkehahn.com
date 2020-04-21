@@ -28,8 +28,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.wiebkehahn.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: jekyll-theme-cayman
-remote_theme: pietromenna/jekyll-cayman-theme
+theme: tufte-pandoc-jekyll
+remote_theme: jez/tufte-pandoc-jekyll
 plugins:
   - jekyll-feed
   - jekyll-pandoc
