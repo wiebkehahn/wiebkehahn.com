@@ -2,7 +2,6 @@
 layout: index
 title: Wiebke Hahn
 subtitle: Art Theorist and Curator
-css: style
 ---
 
 <br />

@@ -34,6 +34,7 @@ baseurl: "/wiebkehahn.com" # the subpath of your site, e.g. /blog
 url: "https://wiebkehahn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
+# theme: tufte-pandoc-jekyll
 remote_theme: jez/tufte-pandoc-jekyll
 plugins:
   - jekyll-feed
