@@ -2,6 +2,7 @@
 layout: index
 title: Wiebke Hahn
 subtitle: Art Theorist and Curator
+css: style
 ---
 
 <br />
@@ -77,4 +78,4 @@ Harts Lane Studios, London
 <br />
 <br />
 
-[Impressum](/impressum)
+[Impressum](./impressum)
