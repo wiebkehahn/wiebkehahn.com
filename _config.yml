@@ -30,8 +30,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   art practices in the public sphere. Further research interests focus on artistic
   utopias and spaces of remembrance, immersion and transcultural dynamics in modern
   society. At the moment, she is a curator at Museum Marta Herford.
-baseurl: "/wiebkehahn.com" # the subpath of your site, e.g. /blog
-url: "https://wiebkehahn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.wiebkehahn.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 # theme: tufte-pandoc-jekyll
