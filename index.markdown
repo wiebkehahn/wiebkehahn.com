@@ -24,35 +24,35 @@ Wiebke (1987) is an art theorist and curator based in Berlin and Bielefeld. She 
 Museum Marta Herford
 
 
-**Deceptive Images—Playing with Painting and Photography**<br />
+**[Deceptive Images—Playing with Painting and Photography](https://marta-herford.de/en/ausstellungen/truegerischebilder/){:target="_blank"}**<br />
 27 June—25 October 2020<br />
 Museum Marta Herford
 
 
-**Visions of Exchange. Mercedes-Benz Art Scope Award 2009–2017**<br />
+**[Visions of Exchange. Mercedes-Benz Art Scope Award 2009–2017](https://art.daimler.com/en/mercedes-benz-art-scope-2009-2017/){:target="_blank"}**<br />
 2 June—4 November 2018<br />
 Daimler Contemporary Berlin
 
 
-**AIDD Wanders—People’s Collection**<br />
+**[AIDD Wanders—People’s Collection](http://aestheticsofprotest.org/think-tank/wanders/){:target="_blank"}**<br />
 An investigation of the British Museum's collection<br />
-by Ana Mendes, in collaboration with AIDD Collective and artistic co-advisor Ines Valle<br />
+by Ana Mendes, in collaboration with [AIDD Collective](http://aestheticsofprotest.org/){:target="_blank"} and artistic co-advisor Ines Valle<br />
 14 Februrary 2015<br />
 British Museum, London
 
 
-**AIDD Wanders—London Housing Code**<br />
-by Noura Al-salem, in collaboration with AIDD Collective<br />
+**[AIDD Wanders—London Housing Code](http://aestheticsofprotest.org/think-tank/wanders/){:target="_blank"}**<br />
+by Noura Al-salem, in collaboration with [AIDD Collective](http://aestheticsofprotest.org/){:target="_blank"}<br />
 12 July 2014<br />
 South London
 
 
 **AIDD—Action, Intervention and Daily Deployment**<br />
-Launch of online achive aestheticsofprotest.org<br />
+Launch of online achive [aestheticsofprotest.org](http://aestheticsofprotest.org/){:target="_blank"}<br />
 With a performance by Alexandra Baybutt, Mira Loew and Jane Frances Dunlop<br />
-Part of Telegraph Hill Festival<br />
+Part of [Telegraph Hill Festival](https://www.telegraphhillfestival.org.uk/){:target="_blank"}<br />
 26 March 2014<br />
-Harts Lane Studios, London
+[Harts Lane Studios](https://www.hartslane.org/){:target="_blank"}	, London
 
 <br />
 <br />
@@ -61,20 +61,15 @@ Harts Lane Studios, London
 
 „The Freedom to Dream“, in: Marta Herford (Hg.), „Glass and Conrete—Manifestations of the Impossible“, Verlag Kettler 2019.
 
-“Presence and Production. The Robert Walser-Sculpture as Activating Event”, in: Kathleen Bühler, Schweizer Plastikausstellung Biel (ed.), “THOMAS HIRSCHHORN ROBERT WALSER-SCULPTURE 2019, BIEL/BIENNE”, Hatje Cantz 2020.
+“Presence and Production. The Robert Walser-Sculpture as Activating Event”, in: Kathleen Bühler, Schweizer Plastikausstellung Biel (ed.), [“THOMAS HIRSCHHORN ROBERT WALSER-SCULPTURE 2019, BIEL/BIENNE”](https://www.robertwalser-sculpture.com/katalog/){:target="_blank"}, Hatje Cantz 2020.
 
-“History as an Act of Re-presentation. Spaces of Remebrance in Visual Art”, in: Renate Wiehager (ed.), “Evoking Reality. Constituting Actuality in Photography and Video Art”, Daimler Contemporary Berlin, November 25th 2018—June 10th 2019, accompanying exhibition brochure. 
+“History as an Act of Re-presentation. Spaces of Remebrance in Visual Art”, in: Renate Wiehager (ed.), [“Evoking Reality. Constituting Actuality in Photography and Video Art”](http://art.daimler.com/media/Exhibition-catalogue.pdf){:target="_blank"}, Daimler Contemporary Berlin, November 25th 2018—June 10th 2019, accompanying exhibition brochure. 
 
-“Guerilla gardening and urban gardening—creating spaces of urban alterity”, for AIDD Archive.
+[“Guerilla gardening and urban gardening—creating spaces of urban alterity”](http://aestheticsofprotest.org/urban-gardening.){:target="_blank"}, for [AIDD Archive](http://aestheticsofprotest.org/){:target="_blank"}.
 
-“Elham Rokni”, in: Renate Wiehager (ed.),“Private/Corporate VII. Doron Sebbag Art Collection, ORS Ltd., Tel Aviv, and Daimler Art Collection”, Stuttgart/Berlin, Hatje Cantz 2012.
-
-<br />
-<br />
-
-## [wiebke.hahn.wh@gmail.com](mailto:wiebke.hahn.wh@gmail.com)
+“Elham Rokni”, in: Renate Wiehager (ed.),[“Private/Corporate VII. Doron Sebbag Art Collection, ORS Ltd., Tel Aviv, and Daimler Art Collection”](https://art.daimler.com/en/publication/private-corporate-vii-2/){:target="_blank"}, Stuttgart/Berlin, Hatje Cantz 2012.
 
 <br />
 <br />
 
-[Impressum](/impressum)
+[wiebke.hahn.wh@gmail.com](mailto:wiebke.hahn.wh@gmail.com) &middot; [Impressum](/impressum)
