@@ -61,6 +61,8 @@ Part of [Telegraph Hill Festival](https://www.telegraphhillfestival.org.uk/){:ta
 
 “Presence and Production. The Robert Walser-Sculpture as Activating Event”, in: Kathleen Bühler, Schweizer Plastikausstellung Biel (ed.), [“THOMAS HIRSCHHORN ROBERT WALSER-SCULPTURE 2019, BIEL/BIENNE”](https://www.robertwalser-sculpture.com/katalog/){:target="_blank"}, Hatje Cantz 2020.
 
+["Pop-Pop-Pop-Pocorn – Humor als Stilmittel im Werk von Navid Nuur"](https://marta-blog.de/pop-pop-pop-pocorn-humor-als-stilmittel-im-werk-von-navid-nuur/){:target="_blank"}, for Marta Blog.
+
 “History as an Act of Re-presentation. Spaces of Remebrance in Visual Art”, in: Renate Wiehager (ed.), [“Evoking Reality. Constituting Actuality in Photography and Video Art”](http://art.daimler.com/media/Exhibition-catalogue.pdf){:target="_blank"}, Daimler Contemporary Berlin, November 25th 2018—June 10th 2019, accompanying exhibition brochure. 
 
 [“Guerilla gardening and urban gardening—creating spaces of urban alterity”](http://aestheticsofprotest.org/urban-gardening.){:target="_blank"}, for [AIDD Archive](http://aestheticsofprotest.org/){:target="_blank"}.
