@@ -70,4 +70,4 @@ Part of [Telegraph Hill Festival](https://www.telegraphhillfestival.org.uk/){:ta
 <br />
 <br />
 
-[wiebke.hahn.wh@gmail.com](mailto:wiebke.hahn.wh@gmail.com) &middot; [Imprint](/impressum)
+[wiebke.hahn.wh@gmail.com](mailto:wiebke.hahn.wh@gmail.com) &middot; [Linkedin](https://www.linkedin.com/in/wiebke-hahn-625b46173/) &middot; [Imprint](/impressum)
