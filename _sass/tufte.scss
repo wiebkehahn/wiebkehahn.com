@@ -23,30 +23,35 @@ h1 { font-weight: 400;
      font-size: 3.2rem;
      line-height: 1; }
 
-h2 { font-style: italic;
-     font-weight: 400;
+h2 { font-weight: 600;
      margin-top: 2.1rem;
      margin-bottom: 1.4rem;
      font-size: 2.2rem;
      line-height: 1; }
 
-h3 { font-style: italic;
-     font-weight: 400;
+h3 { font-weight: 600;
      font-size: 1.7rem;
      margin-top: 2rem;
      margin-bottom: 1.4rem;
      line-height: 1; }
 
+h4 { font-weight: 600;
+     font-size: 1.4rem;
+     margin-top: 2rem;
+     line-height: 1;
+     display: block;
+     margin-block-start: 0em !important;
+     margin-block-end:  0em !important; }
+
 hr { display: block;
      height: 1px;
-     width: 55%;
+     width: 75%;
      border: 0;
      border-top: 1px solid #ccc;
      margin: 1em 0;
      padding: 0; }
 
-p.subtitle { font-style: italic;
-             margin-top: 1rem;
+p.subtitle { margin-top: 1rem;
              margin-bottom: 1rem;
              font-size: 1.8rem;
              display: block;
@@ -70,6 +75,10 @@ p { margin-top: 1.4rem;
     padding-right: 0;
     vertical-align: baseline; }
 
+strong {
+    font-weight: 600;
+}
+
 /* Chapter Epigraphs */
 div.epigraph { margin: 5em 0; }
 
@@ -85,14 +94,14 @@ div.epigraph > blockquote > footer > cite { font-style: italic; }
 
 blockquote { font-size: 1.4rem; }
 
-blockquote p { width: 55%;
+blockquote p { width: 75%;
                margin-right: 40px; }
 
-blockquote footer { width: 55%;
+blockquote footer { width: 75%;
                     font-size: 1.1rem;
                     text-align: right; }
 
-section > p, section > footer, section > table { width: 55%; }
+section > p, section > footer, section > table { width: 75%; }
 
 /* 50 + 5 == 55, to be the same width as paragraph */
 section > ol, section > ul { width: 50%;
@@ -105,7 +114,7 @@ figure { padding: 0;
          font-size: 100%;
          font: inherit;
          vertical-align: baseline;
-         max-width: 55%;
+         max-width: 75%;
          -webkit-margin-start: 0;
          -webkit-margin-end: 0;
          margin: 0 0 3em 0; }

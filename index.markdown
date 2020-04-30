@@ -7,8 +7,6 @@ subtitle: Art Theorist and Curator
 <br />
 <br />
 <br />
-<br />
-<br />
 
 ### About
 
