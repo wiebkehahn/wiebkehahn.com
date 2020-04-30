@@ -18,12 +18,12 @@ Wiebke (1987) is an art theorist and curator based in Berlin and Bielefeld. She 
 ### List of exhibitions and events
 
 **[Look! Exposing Art and Fashion](https://marta-herford.de/en/ausstellungen/look/){:target="_blank"}**<br />
-14 November 2020—11 April 2021<br />
+2021, n.n.<br />
 Museum Marta Herford
 
 
 **[Deceptive Images—Playing with Painting and Photography](https://marta-herford.de/en/ausstellungen/truegerischebilder/){:target="_blank"}**<br />
-27 June—25 October 2020<br />
+2020, n.n.<br />
 Museum Marta Herford
 
 
@@ -50,7 +50,7 @@ Launch of online achive [aestheticsofprotest.org](http://aestheticsofprotest.org
 With a performance by Alexandra Baybutt, Mira Loew and Jane Frances Dunlop<br />
 Part of [Telegraph Hill Festival](https://www.telegraphhillfestival.org.uk/){:target="_blank"}<br />
 26 March 2014<br />
-[Harts Lane Studios](https://www.hartslane.org/){:target="_blank"}	, London
+[Harts Lane Studios](https://www.hartslane.org/){:target="_blank"}, London
 
 <br />
 <br />
