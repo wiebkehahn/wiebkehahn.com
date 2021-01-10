@@ -25,7 +25,7 @@ Museum Marta Herford
 
 
 **[Deceptive Images—Playing with Painting and Photography](https://marta-herford.de/en/ausstellungen/truegerischebilder/){:target="_blank"}**<br />
-2020, n.n.<br />
+31 October 2020—28 Feburary 2021 will be extended<br />
 Museum Marta Herford
 
 
@@ -57,7 +57,15 @@ Part of [Telegraph Hill Festival](https://www.telegraphhillfestival.org.uk/){:ta
 <br />
 <br />
 
-### Writing
+### Writing (Selection)
+
+[“Deceptive Images. Playing with Painting and Photography”](https://marta-herford.de/en/truegerische-bilder/){:target="_blank"}, Guide and Index—Timeline, publications for the [exhibition](https://marta-herford.de/en/ausstellungen/truegerischebilder/){:target="_blank"} of the same name.
+
+[“Kunstevolution mit Dirk Braeckman”](https://marta-blog.de/kunstevolution-mit-dirk-braeckman/){:target="_blank"}, for [Marta-Blog](https://marta-blog.de/){:target="_blank"}.
+
+[“Relikte bewegter Zeiten: Geschichte erzählen mal anders”](https://marta-blog.de/relikte-bewegter-zeiten-geschichte-erzaehlen-mal-anders/){:target="_blank"}, for [Marta-Blog](https://marta-blog.de/){:target="_blank"}.
+
+[“Gläserne Durchsicht als politisches Programm”](https://marta-blog.de/glaeserne-durchsicht-als-politisches-programm/){:target="_blank"}, for [Marta-Blog](https://marta-blog.de/){:target="_blank"}.
 
 „The Freedom to Dream“, in: Marta Herford (Hg.), „Glass and Conrete—Manifestations of the Impossible“, Verlag Kettler 2019.
 
