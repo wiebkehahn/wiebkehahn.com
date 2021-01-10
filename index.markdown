@@ -1,5 +1,7 @@
-Wiebke Hahn<br />
-Art Theorist and Curator
+---
+layout: index
+title: Wiebke Hahn
+subtitle: Art Theorist and Curator
 ---
 
 <br />
