@@ -10,7 +10,9 @@ subtitle: Art Theorist and Curator
 
 ### About
 
-Wiebke (1987) is an art theorist and curator based in Berlin and Bielefeld. She holds a B.A. in Art History (Universität Leipzig) and two M.A.’s in Contemporary Art Theory (Goldsmiths College, University of London) and Culture Management and Culture Tourism (Europa-Universität Viadrina, Frankfurt (Oder)). She is currently completing her Ph.D. at Freie Universität, Berlin, which explores the materiality and political aesthetic of interventionist art practices in the public sphere. Further research interests focus on artistic utopias and spaces of remembrance, immersion and transcultural dynamics in modern society. At the moment, she is a curator at Museum Marta Herford.
+Wiebke Hahn (1987) is an independent art theorist and curator based in Berlin. She studied in Leipzig, Frankfurt (Oder), London and Berlin, where she wrote her doctoral thesis on the materiality and political aesthetic of interventionist art practices in the public sphere (status: doctor designatus). Further research interests focus on artistic utopias, spaces of remembrance, a renewed understanding of sculpture and transcultural dynamics in modern society. In the past, she has curated several projects with a focus on current interdisciplinary discourses in Berlin, London, and Herford, often playing with experimental formats. 
+
+I am always up for exchange and collaborations, simply get in touch [via e-mail](mailto:wiebke.hahn.wh@gmail.com).
 
 <br />
 <br />
