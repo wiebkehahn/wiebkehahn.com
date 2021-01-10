@@ -1,7 +1,5 @@
-ts---
-layout: index
-title: Wiebke Hahn
-subtitle: Art Theorist and Curator
+Wiebke Hahn<br />
+Art Theorist and Curator
 ---
 
 <br />
