@@ -57,7 +57,7 @@ Part of [Telegraph Hill Festival](https://www.telegraphhillfestival.org.uk/){:ta
 <br />
 <br />
 
-### Writing (Selection)
+### Writing (selection)
 
 [“Deceptive Images. Playing with Painting and Photography”](https://marta-herford.de/en/truegerische-bilder/){:target="_blank"}, Guide and Index—Timeline, publications for the [exhibition](https://marta-herford.de/en/ausstellungen/truegerischebilder/){:target="_blank"} of the same name.
 
