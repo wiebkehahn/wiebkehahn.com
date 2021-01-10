@@ -67,7 +67,7 @@ Part of [Telegraph Hill Festival](https://www.telegraphhillfestival.org.uk/){:ta
 
 [“Gläserne Durchsicht als politisches Programm”](https://marta-blog.de/glaeserne-durchsicht-als-politisches-programm/){:target="_blank"}, for [Marta-Blog](https://marta-blog.de/){:target="_blank"}.
 
-„The Freedom to Dream“, in: Marta Herford (Hg.), „Glass and Conrete—Manifestations of the Impossible“, Verlag Kettler 2019.
+„The Freedom to Dream“, in: Marta Herford (Hg.), ["Glass and Conrete—Manifestations of the Impossible“](https://marta-herford.de/en/glas-und-beton/){:target="_blank"}, Verlag Kettler 2019.
 
 “Presence and Production. The Robert Walser-Sculpture as Activating Event”, in: Kathleen Bühler, Schweizer Plastikausstellung Biel (ed.), [“THOMAS HIRSCHHORN ROBERT WALSER-SCULPTURE 2019, BIEL/BIENNE”](https://www.robertwalser-sculpture.com/katalog/){:target="_blank"}, Hatje Cantz 2020.
 
