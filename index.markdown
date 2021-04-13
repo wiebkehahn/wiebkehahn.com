@@ -12,20 +12,25 @@ subtitle: Art Theorist and Curator
 
 Wiebke Hahn (1987) is an independent art theorist and curator with a great expertise in contemporary art, writing and project management based in Berlin. She studied in Leipzig, Frankfurt (Oder), London and Berlin, where she wrote her doctoral thesis on the materiality and political aesthetic of interventionist art practices in the public sphere (status: doctor designatus). Further research interests focus on artistic utopias, spaces of remembrance, a renewed understanding of sculpture and transcultural dynamics in modern society. In the past, she has curated several projects with a focus on current interdisciplinary discourses in the [public realm of London](http://aestheticsofprotest.org/think-tank/wanders/){:target="_blank"}, for the [Daimler Art Collection](https://art.daimler.com/en/){:target="_blank"} and for the [Museum Marta Herford](https://marta-herford.de/en/){:target="_blank"}, often playing with experimental formats. 
 
-Requests for exchange and collaborations are always welcome, simply get in touch [via e-mail](mailto:wiebke.hahn.wh@gmail.com).
+Requests for exchange and collaborations in the context of conceiving exhibitions and publications, writing, research and project management are always welcome, simply get in touch [via e-mail](mailto:wiebke.hahn.wh@gmail.com).
 
 <br />
 <br />
 
 ### List of exhibitions and events
 
+**[We just want to be closer. Singarum J. Moodley and Neo I. Matloga](https://marta-herford.de/en/ausstellungen/ersehntenaehe/){:target="_blank"}**<br />
+24 October 2021-13 February 2022<br />
+Museum Marta Herford
+
+
 **[Look! Exposing Art and Fashion](https://marta-herford.de/en/ausstellungen/look/){:target="_blank"}**<br />
-2021, n.n.<br />
+4 September 2021-16 January 2022<br />
 Museum Marta Herford
 
 
 **[Deceptive Images—Playing with Painting and Photography](https://marta-herford.de/en/ausstellungen/truegerischebilder/){:target="_blank"}**<br />
-31 October 2020—28 Feburary 2021 will be extended<br />
+31 October 2020—15 August 2021<br />
 Museum Marta Herford
 
 
@@ -58,6 +63,8 @@ Part of [Telegraph Hill Festival](https://www.telegraphhillfestival.org.uk/){:ta
 <br />
 
 ### Writing (selection)
+
+[“Die Fotografie im Gewand der Malerei”](https://marta-blog.de/die-fotografie-im-gewand-der-malerei/){:target="_blank"}, for [Marta-Blog](https://marta-blog.de/){:target="_blank"}.
 
 [“Deceptive Images. Playing with Painting and Photography”](https://marta-herford.de/en/truegerische-bilder/){:target="_blank"}, Guide and Index—Timeline, publications for the [exhibition](https://marta-herford.de/en/ausstellungen/truegerischebilder/){:target="_blank"} of the same name.
 
