@@ -1,6 +1,6 @@
 ---
 layout: index
-title: Wiebke Hahn
+title: Dr. Wiebke Hahn
 subtitle: Art Theorist and Curator
 ---
 
@@ -10,7 +10,7 @@ subtitle: Art Theorist and Curator
 
 ### About
 
-Wiebke Hahn (1987) is an independent art theorist and curator with a great expertise in contemporary art, writing and project management based in Berlin. She studied in Leipzig, Frankfurt (Oder), London and Berlin, where she wrote her doctoral thesis on the materiality and political aesthetic of interventionist art practices in the public sphere (status: doctor designatus). Further research interests focus on artistic utopias, spaces of remembrance, a renewed understanding of sculpture and transcultural dynamics in modern society. In the past, she has curated several projects with a focus on current interdisciplinary discourses in the [public realm of London](http://aestheticsofprotest.org/think-tank/wanders/){:target="_blank"}, for the [Daimler Art Collection](https://art.daimler.com/en/){:target="_blank"} and for the [Museum Marta Herford](https://marta-herford.de/en/){:target="_blank"}, often playing with experimental formats. 
+Dr. Wiebke Hahn (* 1987) is an independent art theorist and curator with a great expertise in contemporary art, writing and project management based in Berlin. She studied art history at Leipzig University, cultural management studies at European University Viadrina, and contemporary art theory at Goldsmiths’ College, University of London. In 2021, she completed her PhD on the materiality and political aesthetics of performative practices in public space at the Free University of Berlin; her dissertation [Situation as Material](https://www.logos-verlag.de/cgi-bin/engbuchmid?isbn=5292&lng=deu&id=){:target="_blank"} was published that same year by Logos Verlag Berlin. Further research interests focus on artistic utopias, spaces of remembrance, a renewed understanding of sculpture and transcultural dynamics in modern society. Her exhibition projects have a socio-political and interdisciplinary focus and experiment with  various formats of presentation and communication. 
 
 Requests for exchange and collaborations in the context of conceiving exhibitions and publications, writing, research and project management are always welcome, simply get in touch [via e-mail](mailto:wiebke.hahn.wh@gmail.com).
 
@@ -22,6 +22,12 @@ Requests for exchange and collaborations in the context of conceiving exhibition
 **[We just want to be closer. Singarum J. Moodley and Neo I. Matloga](https://marta-herford.de/en/ausstellungen/ersehntenaehe/){:target="_blank"}**<br />
 24 October 2021-13 February 2022<br />
 Museum Marta Herford
+
+
+**[Radenko Milak. Relics of Tomorrow](https://priskapasquer.art/radenko-milak-relics-of-tomorrow-priska-pasquer-virtual-gallery/){:target="_blank"}**<br />
+From 8 October 2021<br />
+Priska Pasquer Virtual Gallery
+**[Link to enter gallery](https://hubs.mozilla.com/NU6Sw4A/PRISKA-PASQUER-VIRTUAL-GALLERY-RADENKO-MILAK/){:target="_blank"}**<br />
 
 
 **[Look! Exposing Art and Fashion](https://marta-herford.de/en/ausstellungen/look/){:target="_blank"}**<br />
@@ -63,6 +69,10 @@ Part of [Telegraph Hill Festival](https://www.telegraphhillfestival.org.uk/){:ta
 <br />
 
 ### Writing (selection)
+
+Wiebke Hahn: ["Situation als Material. Interventionskunst als politische Aktivität. Die Aktionen des Zentrums für Politische Schönheit und die Präsenz- und Produktionsarbeiten von Thomas Hirschhorn"](https://www.logos-verlag.de/cgi-bin/engbuchmid?isbn=5292&lng=deu&id=){:target="_blank"}, Logos Verlag Berlin 2021.
+
+["We just want to be closer. Singarum J. Moodley and Neo I. Matloga"](https://marta-herford.ticketfritz.de/Shop/Detail/14452/21793){:target="_blank"}, publication for the [exhibition]https://marta-herford.de/en/ausstellungen/ersehntenaehe/{:target="_blank"} of the same name.
 
 [“Die Fotografie im Gewand der Malerei”](https://marta-blog.de/die-fotografie-im-gewand-der-malerei/){:target="_blank"}, for [Marta-Blog](https://marta-blog.de/){:target="_blank"}.
 
