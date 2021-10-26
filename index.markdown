@@ -72,7 +72,7 @@ Part of [Telegraph Hill Festival](https://www.telegraphhillfestival.org.uk/){:ta
 
 Wiebke Hahn: ["Situation als Material. Interventionskunst als politische Aktivität. Die Aktionen des Zentrums für Politische Schönheit und die Präsenz- und Produktionsarbeiten von Thomas Hirschhorn"](https://www.logos-verlag.de/cgi-bin/engbuchmid?isbn=5292&lng=deu&id=){:target="_blank"}, Logos Verlag Berlin 2021.
 
-["We just want to be closer. Singarum J. Moodley and Neo I. Matloga"](https://marta-herford.ticketfritz.de/Shop/Detail/14452/21793){:target="_blank"}, publication for the [exhibition]https://marta-herford.de/en/ausstellungen/ersehntenaehe/{:target="_blank"} of the same name.
+["We just want to be closer. Singarum J. Moodley and Neo I. Matloga"](https://marta-herford.ticketfritz.de/Shop/Detail/14452/21793){:target="_blank"}, publication for the [exhibition](https://marta-herford.de/en/ausstellungen/ersehntenaehe/){:target="_blank"} of the same name.
 
 [“Die Fotografie im Gewand der Malerei”](https://marta-blog.de/die-fotografie-im-gewand-der-malerei/){:target="_blank"}, for [Marta-Blog](https://marta-blog.de/){:target="_blank"}.
 
