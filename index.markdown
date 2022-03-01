@@ -19,8 +19,8 @@ Requests for exchange and collaborations in the context of conceiving exhibition
 
 ### List of exhibitions and events
 
-**[Sleeping Promises. An exhibition of Fachklasse Neugebauer, Universität der Künste Berlin, with Wiebke Hahn](https://feldfuenf.berlin/veranstaltungen/sleeping-promises-ausstellung/){:target="_blank"}**<br />
-17 February 2021-20 February 2022<br />
+**[Sleeping Promises. An Exhibition of Fachklasse Neugebauer, Universität der Künste Berlin, with Wiebke Hahn](https://feldfuenf.berlin/veranstaltungen/sleeping-promises-ausstellung/){:target="_blank"}**<br />
+17 February-20 February 2022<br />
 feldfünf Projekträume im Metropolenhaus
 
 **[We just want to be closer. Singarum J. Moodley and Neo I. Matloga](https://marta-herford.de/en/ausstellungen/ersehntenaehe/){:target="_blank"}**<br />
@@ -34,7 +34,7 @@ Priska Pasquer Virtual Gallery
 
 
 **[Look! Exposing Art and Fashion](https://marta-herford.de/en/ausstellungen/look/){:target="_blank"}**<br />
-4 September 2021-16 January 2022<br />
+4 September 2021-3 March 2022<br />
 Museum Marta Herford
 
 
