@@ -10,7 +10,7 @@ subtitle: Art Theorist and Curator
 
 ### About
 
-Dr. Wiebke Hahn (* 1987) is an independent art theorist and curator with a great expertise in contemporary art, writing and project management based in Berlin. She studied art history at Leipzig University, cultural management studies at European University Viadrina, and contemporary art theory at Goldsmiths’ College, University of London. In 2021, she completed her PhD on the materiality and political aesthetics of performative practices in public space at the Free University of Berlin; her dissertation [Situation as Material](https://www.logos-verlag.de/cgi-bin/engbuchmid?isbn=5292&lng=deu&id=){:target="_blank"} was published that same year by Logos Verlag Berlin. Further research interests focus on artistic utopias, spaces of remembrance, a renewed understanding of sculpture and transcultural dynamics in modern society. Her exhibition projects have a socio-political and interdisciplinary focus and experiment with  various formats of presentation and communication. 
+Dr. Wiebke Hahn (* 1987) is an independent art theorist and curator with a great expertise in contemporary art, writing and project management based in Berlin. Since 2021, she is also a lecturer at Berlin University of the Arts. She studied art history at Leipzig University, cultural management studies at European University Viadrina, and contemporary art theory at Goldsmiths’ College, University of London. In 2021, she completed her PhD on the materiality and political aesthetics of performative practices in public space at the Free University of Berlin; her dissertation [Situation as Material](https://www.logos-verlag.de/cgi-bin/engbuchmid?isbn=5292&lng=deu&id=){:target="_blank"} was published that same year by Logos Verlag Berlin. Further research interests focus on artistic utopias, spaces of remembrance, a renewed understanding of sculpture and transcultural dynamics in modern society. Her exhibition projects have a socio-political and interdisciplinary focus and experiment with  various formats of presentation and communication. 
 
 Requests for exchange and collaborations in the context of conceiving exhibitions and publications, writing, research and project management are always welcome, simply get in touch [via e-mail](mailto:wiebke.hahn.wh@gmail.com).
 
@@ -19,10 +19,13 @@ Requests for exchange and collaborations in the context of conceiving exhibition
 
 ### List of exhibitions and events
 
+**[Sleeping Promises. An exhibition of Fachklasse Neugebauer, Universität der Künste Berlin, with Wiebke Hahn](https://feldfuenf.berlin/veranstaltungen/sleeping-promises-ausstellung/){:target="_blank"}**<br />
+17 February 2021-20 February 2022<br />
+feldfünf Projekträume im Metropolenhaus
+
 **[We just want to be closer. Singarum J. Moodley and Neo I. Matloga](https://marta-herford.de/en/ausstellungen/ersehntenaehe/){:target="_blank"}**<br />
 24 October 2021-13 February 2022<br />
 Museum Marta Herford
-
 
 **[Radenko Milak. Relics of Tomorrow](https://priskapasquer.art/radenko-milak-relics-of-tomorrow-priska-pasquer-virtual-gallery/){:target="_blank"}**<br />
 From 8 October 2021<br />
