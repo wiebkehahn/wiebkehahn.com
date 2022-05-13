@@ -1,6 +1,6 @@
 ---
 layout: index
-title: Dr. Wiebke Hahn
+title: Wiebke Hahn
 subtitle: Art Theorist and Curator
 ---
 
@@ -18,14 +18,25 @@ Requests for exchange and collaborations in the context of conceiving exhibition
 <br />
 
 ### List of exhibitions and events
+**[Radenk Milak. Navigating the Unknown](https://priskapasquer.art/){:target="_blank"}**<br />
+30 June 2022-5 July 2022<br />
+Priksa Pasquer Paris, 6 rue des Coutures Saint-Gervais, 75003 Paris
+
+
+**[We just want to be closer. Singarum J. Moodley and Neo I. Matloga](https://marta-herford.de/en/ausstellungen/ersehntenaehe/) (Exhibition Transfer){:target="_blank"}**<br />
+25 February 2022-30 April 2022<br />
+Galerie der Stadt Backnang
+
 
 **[Sleeping Promises. An Exhibition of Fachklasse Neugebauer, Universität der Künste Berlin, with Wiebke Hahn](https://feldfuenf.berlin/veranstaltungen/sleeping-promises-ausstellung/){:target="_blank"}**<br />
 17 February-20 February 2022<br />
 feldfünf Projekträume im Metropolenhaus
 
+
 **[We just want to be closer. Singarum J. Moodley and Neo I. Matloga](https://marta-herford.de/en/ausstellungen/ersehntenaehe/){:target="_blank"}**<br />
 24 October 2021-13 February 2022<br />
 Museum Marta Herford
+
 
 **[Radenko Milak. Relics of Tomorrow](https://priskapasquer.art/radenko-milak-relics-of-tomorrow-priska-pasquer-virtual-gallery/){:target="_blank"}**<br />
 From 8 October 2021<br />
@@ -46,7 +57,6 @@ Museum Marta Herford
 **[Visions of Exchange. Mercedes-Benz Art Scope Award 2009–2017](https://art.daimler.com/en/mercedes-benz-art-scope-2009-2017/){:target="_blank"}**<br />
 2 June—4 November 2018<br />
 Daimler Contemporary Berlin
-
 
 **[AIDD Wanders—People’s Collection](http://aestheticsofprotest.org/think-tank/wanders/){:target="_blank"}**<br />
 An investigation of the British Museum's collection<br />
