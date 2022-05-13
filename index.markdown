@@ -18,12 +18,12 @@ Requests for exchange and collaborations in the context of conceiving exhibition
 <br />
 
 ### List of exhibitions and events
-**[Radenk Milak. Navigating the Unknown](https://priskapasquer.art/){:target="_blank"}**<br />
+**[Radenko Milak. Navigating the Unknown](https://priskapasquer.art/){:target="_blank"}**<br />
 30 June 2022-5 July 2022<br />
 Priksa Pasquer Paris, 6 rue des Coutures Saint-Gervais, 75003 Paris
 
 
-**[We just want to be closer. Singarum J. Moodley and Neo I. Matloga](https://marta-herford.de/en/ausstellungen/ersehntenaehe/) (Exhibition Transfer){:target="_blank"}**<br />
+**[We just want to be closer. Singarum J. Moodley and Neo I. Matloga](https://marta-herford.de/en/ausstellungen/ersehntenaehe/){:target="_blank"}**<br />
 25 February 2022-30 April 2022<br />
 Galerie der Stadt Backnang
 
